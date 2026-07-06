@@ -14,8 +14,8 @@ Tout d’abord compiler avec Windows (à partir du dossier racine) :
 Puis exécuter :  
 ```./prog```  
 
-![C++/SDL2-Action-RPG-Starter-Kit-screen-1](https://raw.githubusercontent.com/Metroidzeta/SO-Remaster/refs/heads/main/captures/Slayers-Online-remaster-v14-screen-1.png)
-![C++/SDL2-Action-RPG-Starter-Kit-screen-2](https://raw.githubusercontent.com/Metroidzeta/SO-Remaster/refs/heads/main/captures/Slayers-Online-remaster-v14-screen-2.png)
+![C++/SDL2-Action-RPG-Starter-Kit-screen-1]()
+![C++/SDL2-Action-RPG-Starter-Kit-screen-2]()
 
 ## 🎮 CONTRÔLES
 
@@ -48,7 +48,7 @@ Vous ne pouvez pas publier, redistribuer ni utiliser ce code dans un cadre comme
 
 Les ressources graphiques, musicales et sonores appartiennent à leurs auteurs respectifs et ne sont pas couvertes par cette licence.
 
-👉 Voir le fichier complet [LICENSE.md]() pour les termes détaillés (versions française et anglaise).
+👉 Voir le fichier complet [LICENSE.md](https://github.com/Metroidzeta/CPP-SDL2-Action-RPG-Starter-Kit/blob/main/LICENSE.md) pour les termes détaillés (versions française et anglaise).
 
 📧 Contact : [Alain1293@outlook.fr](mailto:Alain1293@outlook.fr)
 
@@ -103,7 +103,7 @@ You may not publish, redistribute, or use this code in a commercial or public co
 
 The graphics, music, and sound assets belong to their respective authors and are not covered by this license.
 
-👉 See the full [LICENSE.md]() file for detailed terms in both French and English.
+👉 See the full [LICENSE.md](https://github.com/Metroidzeta/CPP-SDL2-Action-RPG-Starter-Kit/blob/main/LICENSE.md) file for detailed terms in both French and English.
 
 📧 Contact: [Alain1293@outlook.fr](mailto:Alain1293@outlook.fr)
 
