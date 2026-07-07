@@ -132,7 +132,7 @@ EventGroup* GameMap::findCollidingEvents(const SDL_Rect& rect) noexcept {
 	for (int y = b.y0; y < b.y1; ++y) {
 		for (int x = b.x0; x < b.x1; ++x) {
 			auto it = events_.find(CellCoord{x, y});
-			if (it != events_.end()) return &it->second;
+			if (it != events_.end() && SDL_HasIntersection(&rect, &GLOBAL_RECT_MATRIX[y][x])) return &it->second;
 		}
 	}
 
