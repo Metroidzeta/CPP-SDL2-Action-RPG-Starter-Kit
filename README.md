@@ -13,7 +13,8 @@ Le moteur est entièrement conçu et codé en C++/SDL2 from scratch (de 0) par M
 ## POUR COMPILER LE PROGRAMME
 
 Tout d’abord compiler avec Windows (à partir du dossier racine) :
-```g++ -std=c++20 -Wall -Wextra -Wpedantic src/*.cpp src/loaders/*.cpp src/resources/*.cpp src/renderer/*.cpp -o prog.exe -Isrc -Isrc/loaders -Isrc/resources -Isrc/renderer -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_mixer -lSDL2_image```  
+```g++ -std=c++20 -Wall -Wextra -Wpedantic src/*.cpp src/loaders/*.cpp src/resources/*.cpp src/renderer/*.cpp -o prog.exe -Isrc -Isrc/loaders -Isrc/resources -Isrc/renderer -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_mixer -lSDL2_image```
+
 Puis exécuter :
 ```./prog```  
 
