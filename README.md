@@ -12,9 +12,9 @@ Le moteur est entièrement conçu et codé en C++/SDL2 from scratch (de 0) par M
 
 ## POUR COMPILER LE PROGRAMME
 
-Tout d’abord compiler avec Windows (à partir du dossier racine) :  
+Tout d’abord compiler avec Windows (à partir du dossier racine) :
 ```g++ -std=c++20 -Wall -Wextra -Wpedantic src/*.cpp src/loaders/*.cpp src/resources/*.cpp src/renderer/*.cpp -o prog.exe -Isrc -Isrc/loaders -Isrc/resources -Isrc/renderer -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_mixer -lSDL2_image```  
-Puis exécuter :  
+Puis exécuter :
 ```./prog```  
 
 ## 🎮 CONTRÔLES
@@ -31,7 +31,7 @@ Puis exécuter :
 
 ## TÉLÉCHARGER LE JEU
 
-[Télécharger le jeu en entier ici (v1.0)]()
+[Télécharger le jeu en entier ici (v1.0)](https://mega.nz/file/M40njBSC#y13s695fb631OQKmV_lzmkk2s3Q75_KUKYXaaBqVYLU)
 
 ## POUR LANCER LE JEU
 
@@ -66,10 +66,10 @@ The engine is entirely designed and coded in C++/SDL2 from scratch (from 0) by M
 
 ## HOW TO COMPILE THE PROGRAM
 
-First, compile on Windows (from the project root folder):
+First, compile on Windows (from the project root folder) :
 ```g++ -std=c++20 -Wall -Wextra -Wpedantic src/*.cpp src/loaders/*.cpp src/resources/*.cpp src/renderer/*.cpp -o prog.exe -Isrc -Isrc/loaders -Isrc/resources -Isrc/renderer -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_mixer -lSDL2_image```
 
-Then run:
+Then run :
 ```./prog```
 
 ## 🎮 CONTROLS
@@ -86,7 +86,7 @@ Then run:
 
 ## DOWNLOAD THE GAME
 
-[Download the full game here (v1.0)]()
+[Download the full game here (v1.0)](https://mega.nz/file/M40njBSC#y13s695fb631OQKmV_lzmkk2s3Q75_KUKYXaaBqVYLU)
 
 ## HOW TO LAUNCH THE GAME
 
