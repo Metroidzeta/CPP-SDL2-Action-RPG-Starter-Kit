@@ -1,3 +1,6 @@
+![C++/SDL2-Action-RPG-Starter-Kit-screen-1](https://raw.githubusercontent.com/Metroidzeta/CPP-SDL2-Action-RPG-Starter-Kit/refs/heads/main/screenshots/C%2B%2BSDL2-Action-RPG-Starter-Kit-screen-1.png)
+![C++/SDL2-Action-RPG-Starter-Kit-screen-2](https://raw.githubusercontent.com/Metroidzeta/CPP-SDL2-Action-RPG-Starter-Kit/refs/heads/main/screenshots/C%2B%2BSDL2-Action-RPG-Starter-Kit-screen-2.png)
+
 ---
 🇫🇷 Version Française
 
@@ -13,9 +16,6 @@ Tout d’abord compiler avec Windows (à partir du dossier racine) :
 ```g++ -std=c++20 -Wall -Wextra -Wpedantic src/*.cpp src/loaders/*.cpp src/resources/*.cpp src/renderer/*.cpp -o prog.exe -Isrc -Isrc/loaders -Isrc/resources -Isrc/renderer -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_mixer -lSDL2_image```  
 Puis exécuter :  
 ```./prog```  
-
-![C++/SDL2-Action-RPG-Starter-Kit-screen-1]()
-![C++/SDL2-Action-RPG-Starter-Kit-screen-2]()
 
 ## 🎮 CONTRÔLES
 
